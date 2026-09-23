@@ -1,12 +1,13 @@
 {
   "manifest_version": 2,
   "name": "No Next Message on Delete",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "Deletes selected messages without selecting the next message.",
   "browser_specific_settings": {
     "gecko": {
       "id": "no-next-on-delete@example.local",
-      "strict_min_version": "128.0"
+      "strict_min_version": "128.0",
+      "update_url": "https://raw.githubusercontent.com/p1usminus/no-next-on-delete/main/update.json"
     }
   },
   "background": {

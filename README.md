@@ -4,6 +4,7 @@ This is a fork of the Thunderbird extension *No Next Message on Delete* created 
 
 It replicates the function of an older, now defunct, extension, [Deselect on Delete](https://addons.thunderbird.net/en-us/thunderbird/addon/deselect-on-delete-tb78/).
 
-This fork makes a couple of small changes:
+This fork makes some small changes:
 * Keyboard shortcut is added: default is Ctrl+Enter but this can be changed
 * Fixed function when using table view
+* Updates installed from this repo

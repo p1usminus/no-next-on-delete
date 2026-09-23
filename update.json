@@ -3,8 +3,8 @@
     "no-next-on-delete@example.local.xpi": {
       "updates": [
         {
-          "version": "1.7.0",
-          "update_link": "https://github.com/p1usminus/no-next-on-delete/releases/download/v1.7.0/no-next-on-delete@example.local.xpi",
+          "version": "1.7.1",
+          "update_link": "https://github.com/p1usminus/no-next-on-delete/releases/download/v1.7.1/no-next-on-delete@example.local.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "128.0"
